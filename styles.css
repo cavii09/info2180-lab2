@@ -18,9 +18,9 @@ header {
  padding: 15px;
  grid-column: 1/4;
  grid-row: 1/2;
- /*display: flex;
+ display: flex;
  justify-content: center;
- align-items: center;*/
+ align-items: center;
 }
 
 .container{
